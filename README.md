@@ -1,5 +1,5 @@
 # HomeAutomationProjektGruppe2
-In diesem Repository ist die Dokumentation des Home Automation Projekts der Gruppe 2im Rahmen des Studiengangs Wirtschaftsinformatik zu finden.
+In diesem Repository ist die Dokumentation und die Schritt-für-Schritt-Anleitung des Home Automation Projekts der Gruppe 2 im Rahmen des Studiengangs Wirtschaftsinformatik zu finden.
 
 ## Projektdokumentation
 Die Projektdokumentation ist unter folgendem Link zu finden: 
