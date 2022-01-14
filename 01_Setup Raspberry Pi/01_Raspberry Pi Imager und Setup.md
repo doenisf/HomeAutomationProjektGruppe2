@@ -30,7 +30,7 @@
 9.	PuTTY-Eingaben:<br/>
 9.1.	Login as: „pi“ à Enter<br/>
 9.2.	Password: Passwort aus Schritt 4.2.1. à Enter<br/>
-
+![](/Bilder/01_1-1_PWabfrage.png)<br/>
 
 
 
