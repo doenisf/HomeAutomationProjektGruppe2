@@ -36,7 +36,11 @@
 sudo apt update
 ```
 <br/>
-9.4.	Eingabe 2: „sudo apt upgrade“ à Enter (ggfs. zusätzliche Bestätigung mit „Y“ à Enter)<br/>
+9.4.	Eingabe 2: 
+```
+sudo apt upgrade
+```
+Gegebenenfalls wird nach einer zusätzliche Bestätigung gefragt. Diese mit der Eingabe von „Y“ bestätigen)<br/>
 
 
 
