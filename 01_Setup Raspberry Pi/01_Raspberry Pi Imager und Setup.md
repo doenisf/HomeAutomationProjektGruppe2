@@ -31,6 +31,8 @@
 9.1.	Login as: „pi“ à Enter<br/>
 9.2.	Password: Passwort aus Schritt 4.2.1. à Enter<br/>
 ![](/Bilder/01_1-1_PWabfrage.png)<br/>
+9.3.	Eingabe 1: „sudo apt update“ à Enter<br/>
+9.4.	Eingabe 2: „sudo apt upgrade“ à Enter (ggfs. zusätzliche Bestätigung mit „Y“ à Enter)<br/>
 
 
 
