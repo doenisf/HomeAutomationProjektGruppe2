@@ -4,7 +4,7 @@
 
 
 hier folgt Code
-´´´´
-Passwort eingeben
-´´´´    
+
+    sudo git clone https://www.github.com/tabascoel/tablet
+  
 Code zu Ende
