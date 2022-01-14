@@ -41,9 +41,9 @@ sudo apt update
 sudo apt upgrade
 ```
 <br/>
-Gegebenenfalls wird nach einer zusätzliche Bestätigung gefragt. Diese mit der Eingabe von „Y“ bestätigen)<br//>
+Gegebenenfalls wird nach einer zusätzliche Bestätigung gefragt. Diese mit der Eingabe von „Y“ bestätigen<br/><br/>
 
-
+Somit wäre man mit der Installation des Betriebssystems und dem Zugrif über Putty soweit für den nächsten Schritt:<br/>
 
 Nächster Schritt: **[FHEM Setup](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
             
