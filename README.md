@@ -4,7 +4,7 @@ In diesem Repository ist die Dokumentation des Home Automation Projekts der Grup
 ## Projektdokumentation
 Die Projektdokumentation ist unter folgendem Link zu finden: 
 
-**[Projektdokumentation] (https://www.google.de)**
+**[Projektdokumentation](https://www.google.de)**
 
 ## Schritt-für-Schritt-Anleitung
 
