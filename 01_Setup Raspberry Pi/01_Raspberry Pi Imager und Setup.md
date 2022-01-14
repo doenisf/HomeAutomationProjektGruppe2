@@ -40,7 +40,8 @@ sudo apt update
 ```
 sudo apt upgrade
 ```
-Gegebenenfalls wird nach einer zusätzliche Bestätigung gefragt. Diese mit der Eingabe von „Y“ bestätigen)<br/>
+<br/>
+Gegebenenfalls wird nach einer zusätzliche Bestätigung gefragt. Diese mit der Eingabe von „Y“ bestätigen)<br//>
 
 
 
