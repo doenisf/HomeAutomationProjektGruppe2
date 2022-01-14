@@ -23,6 +23,9 @@
 8.	Trage unter Host Name (or IP address) entweder den Gerätenamen (siehe 8.1) des Raspberry Pi oder die IP-Adresse (siehe 8.2) ein.<br/>
 8.1.	Gib unter Host Name (or IP address) „raspberrypi“ ein. Folgende Meldung erscheint, welche du mit „Accept“ bestätigen musst. <br/>
 ![](/Bilder/01_1-1_PuttyAlert.png)<br/>
+8.2.	Alternativ: Öffne die Kommandozeile auf dem RaspberryPi und führe den Befehl: „ifconfig“ aus.  Dort kannst du nun die IP-Adresse des Raspberry Pi’s ablesen.
+8.3.	Trage den Wert 22 unter Port ein.
+8.4.	Wähle SSH bei Connection type aus.
 
 
 Nächster Schritt: **[FHEM Setup](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
