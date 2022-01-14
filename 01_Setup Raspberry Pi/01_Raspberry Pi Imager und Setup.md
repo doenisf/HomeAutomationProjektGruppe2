@@ -7,7 +7,7 @@
 4.1.	Wähle das Betriebssystem „Raspberry PI OS (32 Bit)“ aus.<br />
 4.2.	Drücke anschließend die Tasten Strg+shift+x, sodass sich ein weiteres Fenster mit „Erweiterten Optionen“ öffnet.<br />
 4.2.1.	Setze den Hacken bei „SSH aktivieren“. Wähle ein Passwort für die Authentifizierung aus und lege ein Passwort für den Raspberry Pi fest.<br />
-! [] (/Bilder/01_1-1_SSH_aktivieren.png)
+![](/Bilder/01_1-1_SSH_aktivieren.png)
 
 Nächster Schritt: **[FHEM Setup](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
             
