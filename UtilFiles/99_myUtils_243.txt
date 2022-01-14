@@ -123,4 +123,13 @@ sub getDate($) {
 	return $return;
 }
 
+sub parseDate($) {
+	my $device = @_[0];
+	my @date = split /-/, ReadingsVal($device, "datum", "14-01-2022");
+	
+	my $return = Time::Piece->strptime("$date[2]-$date[1]-$date[0]", "%F");
+	
+	return $return->datetime;
+}
+
 1;
