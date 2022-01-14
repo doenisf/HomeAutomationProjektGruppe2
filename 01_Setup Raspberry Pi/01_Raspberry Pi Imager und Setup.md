@@ -1,6 +1,6 @@
 # Raspberry Pi Imager und Setup
 
-1.	Rufe die Website www.raspberrypi.com/software/ auf
+1.	Rufe die Website www.raspberrypi.com/software/ auf.
 2.	Lade den Raspberry Pi Imager für dein Betriebssystem (Windows/macOS/Ubuntu for x86) die passende Version herunter.
 3.	Stecke die SD-Karte in den SD-Kartenleser deines Computers. 
 4.	Installiere den Raspberry Pi Imager, indem du den Download durch einen Doppelklick startest. <br />
