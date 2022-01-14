@@ -1,4 +1,4 @@
-#Setup Raspberry Pi
+# Setup Raspberry Pi
 
 Um das Setup für den Raspberry Pi einzurichten benötigst du:
 
