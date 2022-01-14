@@ -11,6 +11,6 @@
 4.2.2.	Scrolle in den Erweiterten Optionen nach unten und richte dein Wifi ein. Trage hierfür unter SSID den Netzwerk Name und unter Passwort das Netzwerkpasswort ein <br/>
 ![](/Bilder/01_1-1_WiFi_einrichten.png)<br/>
 4.2.3.	Lege die Spracheinstellungen fest<br/>
-![](/Bilder/01_1-1_WiFi_einrichten.png)<br/>
+![](/Bilder/01_1-1_Sprache.png)<br/>
 Nächster Schritt: **[FHEM Setup](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
             
