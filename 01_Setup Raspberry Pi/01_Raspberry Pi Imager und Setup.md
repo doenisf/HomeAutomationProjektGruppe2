@@ -22,6 +22,8 @@
 7.	Starte den PuTTY und verbinde ihn mit dem Raspberry Pi.<br/>
 8.	Trage unter Host Name (or IP address) entweder den Gerätenamen (siehe 8.1) des Raspberry Pi oder die IP-Adresse (siehe 8.2) ein.<br/>
 8.1.	Gib unter Host Name (or IP address) „raspberrypi“ ein. Folgende Meldung erscheint, welche du mit „Accept“ bestätigen musst. <br/>
+![](/Bilder/01_1-1_PuttyAlert.png)<br/>
+
 
 Nächster Schritt: **[FHEM Setup](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
             
