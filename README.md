@@ -22,7 +22,7 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 <ol>
 <li>
 
-**[Setup Raspberry Pi](/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md)**
+**[Setup Raspberry Pi](/01_Setup%20Raspberry%20Pi/00_Setup%20Raspberry%20Pi.md)**
 
 </li>
 <li>
