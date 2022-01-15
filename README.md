@@ -22,7 +22,7 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 <ol>
 <li>
 
-**[Setup Raspberry Pi](/01_Setup%20Raspberry%20Pi/00_Setup%20Raspberry%20Pi.md)**
+**[Benötigte Hardware und Vorraussetzungen](/01_Setup%20Raspberry%20Pi/00_Setup%20Raspberry%20Pi.md)**
 
 </li>
 <li>
@@ -77,5 +77,5 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 
 ## Installation mit Installationsskript
 
-<p>Alternativ gibt es die Möglichkeit, den Großteil der Installation und Einrichtung automatisiert mit Hilfe eines Skripts durchzuführen.
-Dieses Skript finden sie <a href="README.md">hier</a> und die Anleitung, wie das Skript zu bedienen ist <a href="README.md">hier</a>.</p>
+Alternativ gibt es die Möglichkeit, den Großteil der Installation und Einrichtung automatisiert mit Hilfe eines Skripts durchzuführen.
+Dieses Skript finden sie <a href="README.md">hier</a> und die Anleitung, wie das Skript zu bedienen ist <a href="README.md">hier</a>.
