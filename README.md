@@ -1,17 +1,26 @@
 # HomeAutomationProjektGruppe2
-In diesem Repository ist die Dokumentation und die Schritt-für-Schritt-Anleitung des Home Automation Projekts der Gruppe 2 im Rahmen des Studiengangs Wirtschaftsinformatik zu finden.
+In diesem Repository ist die Dokumentation und die Schritt-für-Schritt-Anleitung des Home Automation Projekts der Gruppe 2
+im Rahmen des Studiengangs Wirtschaftsinformatik zu finden.
+
+***
 
 ## Projektdokumentation
+
 Die Projektdokumentation ist unter folgendem Link zu finden: 
 
 **[Projektdokumentation](https://www.google.de)**
 
+
+***
+
 ## Schritt-für-Schritt-Anleitung
 
-<p>Im nachfolgenden wird ein grober Überblick über die Schritte, die zum Einrichten unserer Home Automation Lösung benötigt werden, gegeben. Die genauen Schritte sind in den jeweiligen Dokumenten aufgeführt.
-<p>Es wird empfohlen, die Schritte in der angegebenen Reihenfolge durchzuführen. Alternativ kann auch zu einem bestimmten Schritt gesprungen werden.</p>
+<p>Im nachfolgenden wird ein grober Überblick über die Schritte, die zum Einrichten unserer Home Automation Lösung benötigt werden, gegeben.
+Die genauen Schritte sind in den jeweiligen Dokumenten aufgeführt.
+<p>Es wird empfohlen, die Schritte in der angegebenen Reihenfolge durchzuführen und <a href="/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md">hier</a>
+zu beginnen.
+Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu einem bestimmten Schritt gesprungen werden.</p>
 
-**[Schritt-für-Schritt-Anleitung](https://github.com/doenisf/HomeAutomationProjektGruppe2/blob/main/01_Setup%20Raspberry%20Pi/00_Setup%20Raspberry%20Pi.md)**
 <ol>
 <li>
 <strong>Setup Raspberry Pi
@@ -39,7 +48,7 @@ Die Projektdokumentation ist unter folgendem Link zu finden:
 </ol>
 </li>
 <li>
-<strong>Implementierung in FHEM
+<strong>Implementierung in FHEM</strong>
 <ol>
 <li>
 
@@ -58,19 +67,21 @@ Die Projektdokumentation ist unter folgendem Link zu finden:
 *Hier optionale Anforderungen/Müllplan ergänzen*
 </li>
 </ol>
+</li>
 <li>
 <strong>FTUI erstellen</strong>
 <ol>
 <li>
-<a href="/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md">Text</a>
 
 **[Konfiguration der HTML-Seiten](/03_FTUI%20erstellen/FTUi.md)**
 </li>
 </ol>
 </li>
-</li>
 </ol>
 
-<a href="/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md">Text</a>
+***
 
-  ## Installation mit Installationsskript
+## Installation mit Installationsskript
+
+<p>Alternativ gibt es die Möglichkeit, den Großteil der Installation und Einrichtung automatisiert mit Hilfe eines Skripts durchzuführen.
+Dieses Skript finden sie <a href="README.md">hier</a> und die Anleitung, wie das Skript zu bedienen ist <a href="README.md">hier</a>.</p>
