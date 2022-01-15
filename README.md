@@ -23,7 +23,6 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 <li>
 
 **[Benötigte Hardware und Vorraussetzungen](/01_Setup%20Raspberry%20Pi/00_Setup%20Raspberry%20Pi.md)**
-
 </li>
 <li>
 
@@ -31,7 +30,7 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 </li>
 <li>
   
-**[FHEM Setup](/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
+***[FHEM Setup](/01_Setup%20Raspberry%20Pi/02_FHEM%20Setup.md)**
 </li>
 <li>
 
