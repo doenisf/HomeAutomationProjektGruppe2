@@ -2,16 +2,11 @@
 In diesem Repository ist die Dokumentation und die Schritt-für-Schritt-Anleitung des Home Automation Projekts der Gruppe 2
 im Rahmen des Studiengangs Wirtschaftsinformatik zu finden.
 
-***
-
 ## Projektdokumentation
 
 Die Projektdokumentation ist unter folgendem Link zu finden: 
 
 **[Projektdokumentation](https://www.google.de)**
-
-
-***
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -28,6 +23,7 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 <li>
 
 **[Setup Raspberry Pi](/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md)**
+
 </li>
 <li>
 
@@ -78,8 +74,6 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 </ol>
 </li>
 </ol>
-
-***
 
 ## Installation mit Installationsskript
 
