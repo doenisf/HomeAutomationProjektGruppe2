@@ -18,7 +18,7 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 
 <ol>
 <li>
-<strong>Setup Raspberry Pi
+<strong>Setup Raspberry Pi</strong>
 <ol>
 <li>
 
