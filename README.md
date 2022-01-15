@@ -62,13 +62,15 @@ Die Projektdokumentation ist unter folgendem Link zu finden:
 <strong>FTUI erstellen</strong>
 <ol>
 <li>
+<a href="/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md">Text</a>
 
 **[Konfiguration der HTML-Seiten](/03_FTUI%20erstellen/FTUi.md)**
 </li>
 </ol>
 </li>
 </li>
-
 </ol>
+
+<a href="/01_Setup Raspberry Pi/00_Setup%20Raspberry%20Pi.md">Text</a>
 
   ## Installation mit Installationsskript
