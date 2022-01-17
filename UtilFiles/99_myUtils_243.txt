@@ -9,7 +9,6 @@ package main;
 use strict;
 use warnings;
 use Time::Piece;
-use DateTime::Format::Strptime;
 
 sub
 myUtils_243_Initialize($$)
