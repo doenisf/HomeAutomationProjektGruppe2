@@ -73,8 +73,3 @@ Am Ende jeder Seite wird der nächste Schritt verlinkt. Alternativ kann auch zu 
 </ol>
 </li>
 </ol>
-
-## Installation mit Installationsskript
-
-Alternativ gibt es die Möglichkeit, den Großteil der Installation und Einrichtung automatisiert mit Hilfe eines Skripts durchzuführen.
-Dieses Skript finden sie <a href="README.md">hier</a> und die Anleitung, wie das Skript zu bedienen ist <a href="README.md">hier</a>.
