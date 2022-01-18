@@ -11,6 +11,6 @@ Die Projektdokumentation ist unter folgendem Link zu finden:
 
 ## Schritt-für-Schritt-Anleitung
 
-Die genauen Schritte sind in den jeweiligen Dokumenten aufgeführt.
+Die Schritt-für-Schritt-Anleitung mit Schnellinstallation ist unter folgendem Link zu finden:
 
 **[Schritt-Für-Schritt-Anleitung](https://github.com/doenisf/HomeAutomationProjektGruppe2/tree/main/Schritt-F%C3%BCr-Schritt-Anleitung)**
