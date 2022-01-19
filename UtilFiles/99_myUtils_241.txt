@@ -32,7 +32,7 @@ sub modusAnwesenheit($$$) {
 	# Liste der PRESENCE-Devices abholen
 	my @phones = devspec2array("TYPE=PRESENCE");
 	
-	Log(1 , "Devices found: @phones");
+	#Log(1 , "Devices found: @phones");
 	
 	# Ueberpruefen, ob der aktuelle Wochentag und die aktuelle Uhrzeit innerhalb der Betriebszeiten ist
 	if ( ($wday = 1 && $hour >= $start) || ($wday > 1 && $wday < 5 && ($hour >= $start || $hour < $end)) || ($wday = 5 && $hour < $end) ) {
@@ -41,19 +41,19 @@ sub modusAnwesenheit($$$) {
 			
 			# Liste durchgehen
 			foreach( @phones ) {
-				Log(1 , "ForEach gestartet.");
-				Log(1 , "Aktuelles Element = $_");
+				#Log(1 , "ForEach gestartet.");
+				#Log(1 , "Aktuelles Element = $_");
 		
 				# Status des aktuellen Devices auslesen
 				my $status = ReadingsVal($_, "presence", "absent");
-				Log(1 , "Status des aktuellen Geräts = $status");
+				#Log(1 , "Status des aktuellen Geräts = $status");
 				
 				# Status ueberpruefen und wenn "present" Licht anschalten
 				if($status ne "present") {
-					Log(1 , "Aktuelles Gerät nicht anwesend.");
+					#Log(1 , "Aktuelles Gerät nicht anwesend.");
 					
 				} else {
-					Log(1 , "Aktuelles Gerät anwesend.");
+					#Log(1 , "Aktuelles Gerät anwesend.");
 					$switch = 1;
 				}		
 			}
@@ -97,18 +97,18 @@ sub tagParsen($) {
 
 ## Ueberprueft, ob die aktuelle Zeit im uebergebenen Zeitintervall ist.
 sub checkTime($$$) {
-	Log(1 , "checkTime started.");
+	#Log(1 , "checkTime started.");
 	
 	my ($device, $start, $end) = @_;
 	my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime();
 	
-	Log(1 , "$device, $start, $end, $hour");
+	#Log(1 , "$device, $start, $end, $hour");
 	
 	if ($hour >= $start || $hour < $end) {
-		Log(1 , "Setting $device on.");
+		#Log(1 , "Setting $device on.");
 		{fhem("set $device on")}
 	} elsif ($hour < $start && $hour >= $end) {
-		Log(1 , "Setting $device off.");
+		#Log(1 , "Setting $device off.");
 		{fhem("set $device off")}
 	}
 }
